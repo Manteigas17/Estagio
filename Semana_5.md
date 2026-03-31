@@ -1,4 +1,4 @@
-## Relatório Semanal — Semana 5 (09/03 a 13/03)
+## Relatório Semana 5 (09/03 a 13/03)
 
 ### Objetivos
 - Implementar a tarefa 622 *migrate-llm-metrics-from-grafana-to-inline-dashboard*  
