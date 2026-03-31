@@ -1,4 +1,4 @@
-## Relatório Semanal — Semana 4 (02/03 a 06/03)
+## Relatório Semana 4 (02/03 a 06/03)
 
 ### Objetivos
 - Dar continuidade ao desenvolvimento no projeto  
