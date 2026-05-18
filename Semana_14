@@ -1,0 +1,23 @@
+## Relatório Semana 14 (11/05 a 15/05)
+
+### Objetivos
+- Avançar no desenvolvimento da issue #681  
+- Preparar e validar o ambiente para testes end-to-end  
+- Melhorar a integração entre LLM e frontend  
+
+### Trabalho Realizado
+- Configuração de um ambiente local para execução de testes end-to-end  
+- Desenvolvimento da issue #681:
+  - Criação de um endpoint responsável por receber decisões do sistema  
+  - Integração de prompts para geração automática de explicações através de LLM  
+- Alterações no frontend para apresentação da explicação gerada  
+- Continuação da integração entre backend, frontend e funcionalidades baseadas em LLM  
+
+### Dificuldades
+- Problemas de configuração do ambiente para testes end-to-end  
+- Erros de setup que impediram a execução correta dos testes  
+
+### Tarefas Próxima Semana
+- Resolver os problemas associados aos testes end-to-end  
+- Validar a funcionalidade implementada na issue #681  
+- Iniciar desenvolvimento da issue #682  
